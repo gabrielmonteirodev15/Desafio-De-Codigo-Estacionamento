@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\projetos\Cursos\DesafioDeCodigo-Estacionamento\DesafioDeCodigo-Estacionamento\bin\Debug\net8.0\DesafioDeCodigo-Estacionamento.exe
+C:\Users\gabri\OneDrive\Desktop\projetos\Cursos\DesafioDeCodigo-Estacionamento\DesafioDeCodigo-Estacionamento\bin\Debug\net8.0\DesafioDeCodigo-Estacionamento.deps.json
+C:\Users\gabri\OneDrive\Desktop\projetos\Cursos\DesafioDeCodigo-Estacionamento\DesafioDeCodigo-Estacionamento\bin\Debug\net8.0\DesafioDeCodigo-Estacionamento.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\projetos\Cursos\DesafioDeCodigo-Estacionamento\DesafioDeCodigo-Estacionamento\bin\Debug\net8.0\DesafioDeCodigo-Estacionamento.dll
+C:\Users\gabri\OneDrive\Desktop\projetos\Cursos\DesafioDeCodigo-Estacionamento\DesafioDeCodigo-Estacionamento\bin\Debug\net8.0\DesafioDeCodigo-Estacionamento.pdb
+C:\Users\gabri\OneDrive\Desktop\projetos\Cursos\DesafioDeCodigo-Estacionamento\DesafioDeCodigo-Estacionamento\obj\Debug\net8.0\DesafioDeCodigo-Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\projetos\Cursos\DesafioDeCodigo-Estacionamento\DesafioDeCodigo-Estacionamento\obj\Debug\net8.0\DesafioDeCodigo-Estacionamento.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\projetos\Cursos\DesafioDeCodigo-Estacionamento\DesafioDeCodigo-Estacionamento\obj\Debug\net8.0\DesafioDeCodigo-Estacionamento.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\projetos\Cursos\DesafioDeCodigo-Estacionamento\DesafioDeCodigo-Estacionamento\obj\Debug\net8.0\DesafioDeCodigo-Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\projetos\Cursos\DesafioDeCodigo-Estacionamento\DesafioDeCodigo-Estacionamento\obj\Debug\net8.0\DesafioDeCodigo-Estacionamento.dll
+C:\Users\gabri\OneDrive\Desktop\projetos\Cursos\DesafioDeCodigo-Estacionamento\DesafioDeCodigo-Estacionamento\obj\Debug\net8.0\refint\DesafioDeCodigo-Estacionamento.dll
+C:\Users\gabri\OneDrive\Desktop\projetos\Cursos\DesafioDeCodigo-Estacionamento\DesafioDeCodigo-Estacionamento\obj\Debug\net8.0\DesafioDeCodigo-Estacionamento.pdb
+C:\Users\gabri\OneDrive\Desktop\projetos\Cursos\DesafioDeCodigo-Estacionamento\DesafioDeCodigo-Estacionamento\obj\Debug\net8.0\DesafioDeCodigo-Estacionamento.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\projetos\Cursos\DesafioDeCodigo-Estacionamento\DesafioDeCodigo-Estacionamento\obj\Debug\net8.0\ref\DesafioDeCodigo-Estacionamento.dll
