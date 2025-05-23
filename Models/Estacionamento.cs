@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace DesafioDeCodigo_Estacionamento.Models
 {
+    ///Clase Estacionamento
+    ///Contém as ações que pode ser feitas
+    ///Adicionar veiculos
+    ///Remover veiculos
+    ///Listar veiculos 
+    ///Encerrar o programa
     internal class Estacionamento(decimal x, decimal y)
     {
 
@@ -13,6 +19,7 @@ namespace DesafioDeCodigo_Estacionamento.Models
         public decimal entrada = x, valorHora = y;
 
 
+        ///Metodo para adicionar veiculos 
         public void AddVeiculo()
         {
             string? placa;
@@ -33,6 +40,7 @@ namespace DesafioDeCodigo_Estacionamento.Models
 
         }
 
+        ///Metodo oara remover veiculos 
         public void RemoverVeiculo()
         {
             string? placa;
@@ -50,6 +58,7 @@ namespace DesafioDeCodigo_Estacionamento.Models
             }
         }
 
+        ///Metodo para listar os veiculos
         public void ListarVeiculos()
         {
             foreach (var item in veiculos)
@@ -58,6 +67,7 @@ namespace DesafioDeCodigo_Estacionamento.Models
             }
         }
 
+        ///Metodo para encerrar o programa
         public void Encerrar()
         {
             Environment.Exit(0);
