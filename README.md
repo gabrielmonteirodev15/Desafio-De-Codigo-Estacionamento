@@ -6,4 +6,5 @@ O objetivo é construir um sistema para um estacionamento onde o sistema deve:
 2.Saber o valor da hora do estacionamento
 3.Adicionar veiculos usando a placa   
 4.Remover veiculos usando a placa   
-5.Listar os veiculos 6.Encerrar o programa
+5.Listar os veiculos   
+6.Encerrar o programa
