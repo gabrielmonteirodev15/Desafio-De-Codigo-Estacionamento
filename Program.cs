@@ -15,11 +15,10 @@ Estacionamento e = new Estacionamento(entrada, valorHora);
 
 bool menu = true;
 
+//Exibir o menu com as ações a serem feitas
 while (menu)
 {
     Console.WriteLine("Menu do estacionamento \n1-Adicionar veiculo \n2-Remover veiculo \n3-Listar veiculos \n4-Encerrar");
-
-
 
     switch (Console.ReadLine())
     {
